@@ -2,3 +2,6 @@ In ASP.Net, we often need list boxes with a provision to move items between the 
 
 The following screen shot shows the appearance of the control on a page. Don't worry..;), you can definitely change the UI and styles of the control without much effort.
 
+Note: I have moved my actual project hosted (now archived) in CodePlex at:
+
+https://archive.codeplex.com/?p=associatedlistbox
